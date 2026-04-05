@@ -16,6 +16,7 @@ Step 5: Terminate the program.
 
 
 ## PROGRAM: 
+~~~
 % INPUT SIGNAL-1
 a = input('enter the starting x(n)');
 x = input('Enter the x(n) sequence');
@@ -55,6 +56,7 @@ stem(n3,Out2)
 xlabel('Time')
 ylabel('Amplitude')
 title('Discrete cross correlated waveform')
+~~~
 ## OUTPUT:
 
 ## RESULT:
